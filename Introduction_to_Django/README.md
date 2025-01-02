@@ -1,0 +1,1 @@
+A Django-based project for learning and exploring the Django framework.
