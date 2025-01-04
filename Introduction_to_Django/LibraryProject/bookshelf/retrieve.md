@@ -1,5 +1,7 @@
 
 
+### Retrieve Operation
+
 **Command**:
 ```python
 books = Book.objects.all()
